@@ -1,5 +1,5 @@
-let i = 10;
+let c = 10;
 do {
-  console.log(i);
-  i--;
-} while (i > -1);
+  console.log(c);
+  c--;
+} while (c >= 0);
